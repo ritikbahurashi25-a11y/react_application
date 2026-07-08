@@ -1,0 +1,9 @@
+services:
+  contact_form:
+    build: .
+    container_name: my_contact_form
+    ports:
+      - "5173:5173"
+    volumes:
+      - .:/app
+      - /app/node_modules
