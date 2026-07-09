@@ -8,10 +8,10 @@ export default function About() {
 
         <h3>👤About my_self</h3>
         <p>
-          I'm Ritik Bahurashi, an MCA student at SPIT Mumbai. 
+          I'm Ritik Bahurashi, an MCA student at SPIT Mumbai 442001.
         </p>
 
-        <h3>🎓 Education</h3>
+        <h3>🎓 Education Details</h3>
 
         <div className="edu-box">
           <h4>Master of Computer Applications (MCA)</h4>
